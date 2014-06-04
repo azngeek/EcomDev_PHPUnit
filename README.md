@@ -24,7 +24,7 @@ Documentation
 
 Also you may follow our related [blogposts](http://www.ecomdev.org/tag/phpunit).
 
-Installation
+Installations
 ------------
 
 
